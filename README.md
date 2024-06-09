@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on anything that involves programming and I can help with.
 - 📫 You can reach me at hello@iwaqar.com
 
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 <!---
 waqar-imtiaz/waqar-imtiaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
